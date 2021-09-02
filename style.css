@@ -1,0 +1,35 @@
+html {
+    background: rebeccapurple;
+}
+
+div.redBox {
+    width: 100px;
+    padding: 100px;
+    background: red;
+    height: 100px;
+}
+
+div.blueBox {
+    width: 300px;
+    height: 400px;
+    border: 2px solid red;
+    background: blue;
+}
+
+div.greenBox {
+    width: 250px;
+    height: 600px;
+    border-radius: 6px;
+    background: green;
+}
+h1 {
+    color: white;
+    width: 400px;
+    text-align: center;
+}
+
+h2 {
+    color: orange;
+    width: 800px;
+    text-align: right;
+}
